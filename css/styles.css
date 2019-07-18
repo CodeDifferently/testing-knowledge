@@ -1,0 +1,59 @@
+body{
+
+	background-image: url("http://codedifferently.com/wp-content/uploads/2018/10/codediffback.png");
+	background-repeat: repeat-10;
+}
+
+
+h1 {
+
+color: #DD8500;
+font-family: Tahoma, san serif;
+	
+}
+
+h3{
+
+text-align: center;
+
+}
+
+#numques {
+font-family: Tahoma, san serif;
+font: bold;
+
+}
+
+#visual {
+	border-radius: 5px;
+	border-color: green;
+	border-style: dashed;
+	border-width: 4px;
+	background-color: black;
+	font-family: Tahoma, san serif;
+	color: green;
+	padding: 5px;
+	margin-left: 500px;
+	margin-right: 500px;
+	
+}
+
+.class{
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+#ask {
+	text-align: center;
+	font-family: Tahoma, san serif;
+	color: #091540;
+	font-weight: 2px;	
+	font: bolder;
+}
+
+#instruct {
+	font-family: Tahoma, san serif;
+	color: #091540;
+	font-weight: bold;
+	text-align: center;
+}
